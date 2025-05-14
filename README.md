@@ -1,6 +1,7 @@
 # 🛍️ Diwali Sales Analysis
 
-A data analytics project using Python to analyze Diwali sales data and uncover valuable business insights related to customer behavior, product performance, and regional trends.
+- A data analytics project using Python to analyze Diwali sales data and uncover valuable business insights related to customer behavior, product performance, and regional trends. 
+- I used Python instead of Excel or Power BI for its flexibility, scalability, and ability to extract deeper, multi-dimensional insights from large datasets.
 
 ---
 
