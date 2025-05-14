@@ -11,9 +11,6 @@ This project involves end-to-end exploratory data analysis (EDA) using Python an
 ### ✅ Key steps performed:
 
 - **Data Loading & Cleaning**  
-  - Loaded the CSV dataset using `pandas`
-  - Removed irrelevant columns (`Status`, `unnamed1`)
-  - Handled missing values and converted data types (e.g., `Amount` to integer)
 
 - **Exploratory Data Analysis (EDA)**  
   - Analyzed data by:  
@@ -33,23 +30,8 @@ This project involves end-to-end exploratory data analysis (EDA) using Python an
     - Spending by occupation  
     - Product category insights  
     - Top 10 most sold products
-
-- **Insight Generation**  
-  - Identified the most valuable customer segments
-  - Uncovered top-performing products and regions
-  - Combined all factors to generate strategic insights
-
 ---
 
-## 🧠 Key Insights
-
-- **Most valuable customer group**: Married women aged 26–35  
-- **Top regions**: Maharashtra, Karnataka, Uttar Pradesh (Western & Southern zones)  
-- **High-spending professions**: Healthcare, Government, Automobile  
-- **Top product categories**: Auto Accessories, Clothing, Electronics  
-- **Product trend**: Small number of products account for most sales
-
----
 
 ## 🛠️ Tools & Libraries
 
@@ -67,13 +49,5 @@ This project involves end-to-end exploratory data analysis (EDA) using Python an
 - Exploratory data analysis (EDA)  
 - Data visualization and storytelling  
 - Business insight extraction from raw data
-
----
-
-## 🚀 Next Steps
-
-- Build predictive models (e.g., sales forecasting)  
-- Segment customers using clustering (e.g., KMeans)  
-- Develop an interactive dashboard for stakeholders
 
 ---
